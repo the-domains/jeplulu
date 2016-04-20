@@ -1,28 +1,40 @@
-name: jeplulu
-favicon: null
 layout_spectrum: 0.50764
-typography_spectrum: 0.59127
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.2929206828121096
-  lightness: 0.14752289233729243
-  saturation: 0.875
-  rhythmicContrast: 0.5688752953428775
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.875
+  brandStrength: 0.2929206828121096
+  lightness: 0.1475228923372924
+  brandColors:
+    - '#FFFFFE'
+    - '#353534'
+    - '#9F9F9E'
+    - '#676867'
+    - '#CACBCA'
+  rhythmicContrast: 0.5688752953428775
+typography_spectrum: 0.6039426
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: jeplulu
