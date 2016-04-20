@@ -1,0 +1,28 @@
+name: jeplulu
+favicon: null
+layout_spectrum: 0.3671698891557753
+typography_spectrum: 0.07788793439976871
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2929206828121096
+  lightness: 0.14752289233729243
+  saturation: 0.9017590789590031
+  rhythmicContrast: 0.5688752953428775
+purpose: []
