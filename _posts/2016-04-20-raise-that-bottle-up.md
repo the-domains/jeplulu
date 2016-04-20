@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Raise that bottle up! '
-datePublished: '2016-04-20T02:37:30.788Z'
-dateModified: '2016-04-20T02:36:55.132Z'
+datePublished: '2016-04-20T02:42:27.655Z'
+dateModified: '2016-04-20T02:37:40.033Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-raise-that-bottle-up.md
