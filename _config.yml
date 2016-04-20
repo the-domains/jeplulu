@@ -1,8 +1,7 @@
-layout_spectrum: 0.50764
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: jeplulu
+favicon: null
+layout_spectrum: 0.01098
+typography_spectrum: 0.58722
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.875
-  brandStrength: 0.2929206828121096
-  lightness: 0.1475228923372924
   brandColors:
     - '#FFFFFE'
     - '#353534'
     - '#9F9F9E'
     - '#676867'
     - '#CACBCA'
+  brandStrength: 0.5
+  lightness: 0.1475228923372924
+  saturation: 0.875
   rhythmicContrast: 0.5688752953428775
-typography_spectrum: 0.6039426
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: jeplulu
+purpose: []
